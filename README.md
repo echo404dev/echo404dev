@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**echo404dev/echo404dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student currently enrolled in a technical program focused on **full stack web development**. I'm working through the [freeCodeCamp](https://www.freecodecamp.org/) curriculum to become a Certified Full Stack Developer, and also learning **SQL** as part of my school’s **Database** course.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I'm Learning:
+- HTML & CSS (freeCodeCamp)
+- JavaScript (soon!)
+- SQL (school course)
+- Python (future goal, focused on AI/ML)
+
+---
+
+### 🎯 Goals:
+- Build my first full web project  
+- Contribute to open source  
+- Learn how to design and deploy APIs  
+- Explore innovation and entrepreneurship through tech
+
+---
+
+“I don’t want to just survive — I want to build, grow, and thrive.” 💡
